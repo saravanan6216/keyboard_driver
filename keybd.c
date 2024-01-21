@@ -41,7 +41,7 @@ const unsigned char kbdus[128] =
     0,   0,   0,
     0,	/* F11 Key */
     0,	/* F12 Key */
-    0,	/* All other keys are undefined */
+    0,	/* All other keys are un defined  undefined */
 };
 
 
